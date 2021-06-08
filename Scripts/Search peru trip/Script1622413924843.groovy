@@ -25,3 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Google/input__q'), 'peru si
 
 WebUI.click(findTestObject('Object Repository/Page_Google/span_peru sites to visit'))
 
+WebUI.takeScreenshot()
+

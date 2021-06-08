@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Peru search,Chrome 91.0.4472.77,,,2021-06-08 10:14:02,2021-06-08 10:14:13,10.567s,PASSED
+,,,,,,,
+Test Cases/Search peru trip,Chrome 91.0.4472.77,,,2021-06-08 10:14:04,2021-06-08 10:14:13,9.048s,PASSED
+"openBrowser("""")",Chrome 91.0.4472.77,,,2021-06-08 10:14:04,2021-06-08 10:14:07,3.028s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 91.0.4472.77,,,2021-06-08 10:14:07,2021-06-08 10:14:08,0.955s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""peru sites"")",Chrome 91.0.4472.77,,,2021-06-08 10:14:08,2021-06-08 10:14:10,1.176s,PASSED
+"click(findTestObject(""Object Repository/Page_Google/span_peru sites to visit""))",Chrome 91.0.4472.77,,,2021-06-08 10:14:10,2021-06-08 10:14:12,2.325s,PASSED
+takeScreenshot(),Chrome 91.0.4472.77,,,2021-06-08 10:14:12,2021-06-08 10:14:13,1.000s,PASSED
